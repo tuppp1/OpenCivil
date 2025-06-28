@@ -1,5 +1,5 @@
 # OpenCivil
-OpenCivil is an open repository for sharing datasets related to civil engineering research
+OpenCivil is an open repository for sharing datasets related to civil engineering research.
 ![](images/Big Data.png)
 
 ## Crack Dataset
