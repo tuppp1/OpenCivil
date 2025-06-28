@@ -2,8 +2,8 @@
 OpenCivil is an open repository for sharing datasets related to civil engineering research.
 
 The project is supported by:
-**RILEM - RILEM TC 315-DCS committee**;
-**ACI - xxxx committee** 
+**RILEM TC 315-DCS**;
+**ACI xxxx** 
 
 
 
