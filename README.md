@@ -1,6 +1,6 @@
 # OpenCivil
 OpenCivil is an open repository for sharing datasets related to civil engineering research
-![Description](images/Big Data.png)
+![](images/Big Data.png)
 
 ## Crack Dataset
 **Description:** This dataset contains labeled images of cracks for training and evaluation.
