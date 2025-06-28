@@ -1,6 +1,10 @@
 # OpenCivil 📊🧠🤖
 OpenCivil is an open repository for sharing datasets related to civil engineering research.
-![](images/Big_Data.png)
+
+The project is supported by:
+RILEM - RILEM TC 315-DCS committee 
+ACI - xxxx committee 
+
 
 
 ## Content
