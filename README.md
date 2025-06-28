@@ -2,5 +2,8 @@
 OpenCivil is an open repository for sharing datasets related to civil engineering research
 
 ## Crack Dataset
+**Description:** This dataset contains labeled images of cracks for training and evaluation.
 
-Multi-damage dataset - [HRCDS](https://data.mendeley.com/datasets/6x4dzzrs2h/1)
+
+## Multi-damage dataset
+[HRCDS](https://data.mendeley.com/datasets/6x4dzzrs2h/1)
