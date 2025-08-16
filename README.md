@@ -1,6 +1,10 @@
 # Awesome AI/ML for concrete materials and structures 📊🧠🤖
 OpenCivil is an open repository for sharing datasets related to civil engineering research.
 
+About
+A curated list of data-driven research in concrete science.
+
+
 The project is supported by:
 **RILEM TC 315-DCS**;
 **ACI xxxx** 
