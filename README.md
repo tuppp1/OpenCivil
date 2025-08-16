@@ -91,12 +91,9 @@ The project is supported by:
 
 ## 🤝 Contributing
 
-We welcome community contributions!
+# Contributing Guidelines
 
-Please:
-1. Check for duplicates before submitting.
-2. Use this format:  
-   ```markdown
-   * [project-name](http://example.com) - A short description that ends with a dot. **Python**.
+We welcome community contributions!  
 
+Please see our detailed [Contribution Guidelines](CONTRIBUTING.md).
 
