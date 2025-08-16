@@ -43,7 +43,7 @@ The project is supported by:
 
 - **[Concrete-Crack-500](https://example.com)** - A labeled dataset of concrete surface cracks. **Public**.
 - **[MaterialStructureDB](https://example.com)** - Microstructure-property data from real structures. **Proprietary**.
-- **[HRCDS](https://data.mendeley.com/datasets/6x4dzzrs2h/1) - High-resolution concrete damage segmentation dataset for training and evaluating crack detection models. **Dataset**.
+- **[HRCDS](https://data.mendeley.com/datasets/6x4dzzrs2h/1)** - High-resolution concrete damage segmentation dataset for training and evaluating crack detection models. **Dataset**.
 
 ---
 
