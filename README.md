@@ -90,7 +90,7 @@ The project is supported by:
 
 ## 🤝 Contributing
 
-# Contributing Guidelines
+Contributing Guidelines
 
 We welcome community contributions!  
 
