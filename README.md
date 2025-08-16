@@ -34,8 +34,8 @@ The project is supported by:
 
 ## 🔧 Tools & Software
 
-- **[OpenConcreteML](https://example.com)** - Python-based toolkit for concrete property prediction.
-- **[CrackNet](https://example.com)** - Deep learning model for automated crack segmentation. **Python**.
+- **[XXXX](https://example.com)** - Python-based toolkit for concrete property prediction. **Python**.
+- **[XXXX](https://example.com)** - Deep learning model for automated crack segmentation. **Python**.
 
 ---
 
@@ -63,28 +63,28 @@ The project is supported by:
 
 ## 📓 Electronic Lab Notebooks
 
-- [OpenELN for Materials](https://example.com) – Digital lab notebook adapted for concrete experiments.
+- [XXXX](https://example.com) – Digital lab notebook adapted for concrete experiments.
 
 ---
 
 ## 📏 Standards & Benchmarks
 
-- [BenchmarkML-Concrete](https://example.com) – Community benchmark for crack detection tasks.
-- [ASTM AI Use in Construction](https://example.com) – Draft standards under review.
+- [XXXX](https://example.com) – Community benchmark for crack detection tasks.
+- [XXXX](https://example.com) – Draft standards under review.
 
 ---
 
 ## 📘 Educational Resources
 
-- [ML for Civil Engineers](https://example.com) – Free online course by University X.
-- [Data Science in Construction](https://example.com) – Tutorial series on YouTube.
+- [XXXX](https://example.com) – Free online course by University X.
+- [XXXX](https://example.com) – Tutorial series on YouTube.
 
 ---
 
 ## 📁 Similar Compilations
 
-- [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics)
-- [Best of Atomistic Machine Learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning)
+- [XXXX](https://example.com)
+- [XXXX](https://example.com)
 
 ---
 
