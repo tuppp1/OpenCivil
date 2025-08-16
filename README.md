@@ -2,7 +2,7 @@
 
 A curated list of data-driven tools, datasets, publications, and resources for applying artificial intelligence and machine learning in concrete materials science and structural engineering.
 
-> This repository is maintained by members of technical committees and contributors from academia and industry. Contributions are welcome—see [Contributing](#contributing) for details.
+> This repository is maintained by members of technical committees and contributors from academia and industry. Contributions are welcome—see [Contributing](#-contributing) for details.
 
 ---
 ## 📌 Scope
@@ -41,7 +41,7 @@ The project is supported by:
 
 ## 📊 Datasets
 
-- **[Concrete-Crack-500](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001/data)** - A labeled dataset of concrete surface cracks. **Public**.
+- **[Concrete-Crack-500](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001/data)** - A labeled dataset of concrete surface cracks. **Dataset**.
 - **[HRCDS](https://data.mendeley.com/datasets/6x4dzzrs2h/1)** - High-resolution concrete damage segmentation dataset for training and evaluating crack detection models. **Dataset**.
 
 ---
