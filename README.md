@@ -50,8 +50,8 @@ The project is supported by:
 
 > Key peer-reviewed papers and preprints.
 
-- Smith et al., "Machine Learning for Damage Detection in Concrete," *Cement & Concrete Research*, 2022.  
-- Liu & Kim, "Data-driven Approaches in Structural Health Monitoring," *arXiv preprint*, 2023.
+- Cha, Y.J. et al., "Deep learning‐based crack damage detection using convolutional neural networks," *Deep learning‐based crack damage detection using convolutional neural networks*, 2017.  
+- Jiang, Y. et al., "A deep learning approach for fast detection and classification of concrete damage," *Automation in Construction*, 2021.
 
 ---
 
